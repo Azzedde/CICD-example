@@ -1,4 +1,4 @@
-# Lab 1: Build CI/CD Solution
+# Build CI/CD Solution
 
 ## Overview
 
@@ -6,7 +6,7 @@ In this lab, you will learn how to implement Continuous Integration (CI) and Con
 
 ## Goals
 
-By the end of this lab, you will:
+By the end of this you will:
 
 1. Understand the importance of CI/CD processes in MLOps.
 2. Learn how to use a Makefile for automating linting, formatting, refactoring, and testing.
